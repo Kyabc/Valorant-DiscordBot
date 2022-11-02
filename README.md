@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/staciax/ValorantStoreChecker-discord-bot"></a>
   <br>
-  Valorant Discord Bot
+  Valorant Discord Bot (dev)
   <br>
 </h1>
 
